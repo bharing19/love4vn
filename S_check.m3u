@@ -707,6 +707,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/667f3852efa2a10008e1e514/master.m3u
 #EXTINF:-1 tvg-id="6452c8cee1979c0008608e27" tvg-name="Godzilla" tvg-logo="https://images.pluto.tv/channels/6452c8cee1979c0008608e27/colorLogoPNG.png" group-title="Movies" tvg-chno="900",Godzilla
 https://stitcher.pluto.tv/stitch/hls/channel/6452c8cee1979c0008608e27/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=76e5ccad-b696-11ef-a670-da44a02bfbfb
 
+#EXTINF:-1 group-title="Selection Sport",Golf Channel English
+http://78.130.250.2:8023/play/a02q/index.m3u8
+
 #EXTINF:-1 tvg-id="5b4e99f4423e067bd6df6903" tvg-name="Gordon Ramsay's Hell's Kitchen" tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="Movies" tvg-chno="1900",Gordon Ramsays Hells Kitchen
 https://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=76e5ccad-b696-11ef-a670-da44a02bfbfb
 
@@ -1612,9 +1615,6 @@ https://7pal.short.gy/ssportsf1
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports F1 4K
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/73791
-
-#EXTINF:-1 group-title="Selection Sport",Sky Sports F1 UHD
-https://7pal.short.gy/SSF1uhd
 
 #EXTINF:-1 tvg-name="" tvg-id="sky-sports-football" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Football
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/73785
