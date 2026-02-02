@@ -1,0 +1,4 @@
+### Nhật ký lỗi ngày 2026-02-02 23:19:51 GMT+7 ###
+- Lỗi tải: https://raw.githubusercontent.com/huynhconghuong2004/iptv/refs/heads/main/Vi%C3%AA%CC%A3t%20-%20Nga%20TV.m3u
+- Lỗi tải: https://raw.githubusercontent.com/atim2515/ATIM_BOSTON/main/TIM%20IPTV
+- Lỗi tải: https://bit.ly/playlist_BONDtv
